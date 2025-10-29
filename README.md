@@ -19,6 +19,30 @@ Para alcançar seu objetivo, ela deve atravessar **5 fases principais + 1 fase f
 Cada fase introduz uma nova mecânica ou desafio.
 
 Embora derrotar inimigos aumente sua pontuação, **não é obrigatório** para vencer — o verdadeiro desafio é encontrar a **passagem para o próximo andar**.
+---
+
+## 🖼️ Capturas de Tela e Vídeos
+
+Abaixo estão algumas imagens e vídeos demonstrando o funcionamento do jogo.
+
+> 💡 Dica: salve suas imagens na pasta `/media` ou `/docs/images` do repositório para mantê-las organizadas.
+
+### 🧙‍♀️ Telas de Jogo
+
+| Fase | Imagem |
+|------|--------|
+| Fase 1 – Puzzle das Lanternas | <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/e29c38a2-4a6a-499a-8ff2-06f420e8e3c7" />|
+| Fase 2 – Puzzle da Lava | <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/3ae6894c-3b99-4023-940c-1c41998ff336" />|
+| Fase 3 – Cavaleiro Sombrio | <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/d165d00d-0e0c-48e5-898a-e6a125078522" />|
+| Fase 4 – Gelo e Inimigos |<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/f0e5a4a7-6137-44c0-9df6-7850f2ee8760" />|
+| Fase 5 – O Combate | <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/70e14426-510e-4931-9dc3-4e7c89e10097" />|
+
+### 🎥 Vídeos de Gameplay
+
+- [🎬 Gameplay Completa (YouTube)](https://www.youtube.com/watch?v=SEU_LINK_AQUI)  
+- [⚔️ Luta Final com o Boss (YouTube)](https://youtu.be/sQt5KJIIxxA)
+
+> Caso ainda não tenha os vídeos, você pode gravar usando o **OBS Studio**, **Xbox Game Bar (Win+G)** ou qualquer ferramenta de captura de tela.
 
 ---
 
