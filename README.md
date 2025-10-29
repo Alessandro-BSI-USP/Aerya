@@ -39,8 +39,8 @@ Abaixo estão algumas imagens e vídeos demonstrando o funcionamento do jogo.
 
 ### 🎥 Vídeos de Gameplay
 
-- [🎬 Gameplay Completa (YouTube)](https://www.youtube.com/watch?v=SEU_LINK_AQUI)  
-- [⚔️ Luta Final com o Boss (YouTube)](https://youtu.be/sQt5KJIIxxA)
+- [🎬 Gameplay Completa (YouTube)](https://youtu.be/sQt5KJIIxxA)  
+- [⚔️ Luta Final com o Boss (YouTube)](https://www.youtube.com/shorts/cdaEitmqIQo)
 
 > Caso ainda não tenha os vídeos, você pode gravar usando o **OBS Studio**, **Xbox Game Bar (Win+G)** ou qualquer ferramenta de captura de tela.
 
